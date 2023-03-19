@@ -41,9 +41,10 @@ public class Variables{
         // int to store number use int or integer
 
         int a2=40;
+
         double a3=34.9;
+
         String b="23";
-        
         // String to store string values encoded in dounle or single codes
         // use String
         
