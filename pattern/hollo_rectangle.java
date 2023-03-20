@@ -1,7 +1,7 @@
 package pattern;
 
 public class hollo_rectangle {
-    public static void main()_{
+    public static void main(){
         int a = 1;
         int b = 5;
 
