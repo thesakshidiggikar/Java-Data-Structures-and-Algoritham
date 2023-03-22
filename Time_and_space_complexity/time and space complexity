@@ -1,4 +1,22 @@
 
 
 Time Complexity :  relation betweem input size and running time (operations).
+ 
+time conplexity indirecty prositional "n" .(linear relation)
+
+they are many of 3 types
+Best case :  omgea(1)
+Average case :  theta(n+1/2)
+Worst : O big O(n)
+
+master theorem
+
+
+
+**********************************************************************************************************
+
+
+Space Complexity : How much memoery is being used in to store one program.
+
+
 
