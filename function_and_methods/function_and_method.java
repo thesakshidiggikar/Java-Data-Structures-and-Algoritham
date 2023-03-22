@@ -1,3 +1,5 @@
+package function_and_methods;
+
 import java.util.Scanner;
 
 public class function_and_method {
