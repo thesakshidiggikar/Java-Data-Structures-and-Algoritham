@@ -24,7 +24,7 @@ public class arrays2d {
       //output
       for (int i = 0; i < rows; i++) {
          for (int j = 0; j < col; j++) {
-            System.out.println(number[i][j]);
+            System.out.print(number[i][j]+ " ");
          }
          System.out.println();
       }
