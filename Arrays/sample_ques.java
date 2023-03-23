@@ -8,7 +8,7 @@ public class sample_ques {
         int rows =sc.nextInt();
         int col= sc.nextInt();
 
-        int number[][]=new int[rows][col]
+        int number[][]=new int[rows][col];
 
         for (int i=0; i<rows; i++){
             for (int j=0; j<col; j++){
