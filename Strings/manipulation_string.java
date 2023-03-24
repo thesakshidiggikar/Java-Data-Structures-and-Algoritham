@@ -6,7 +6,7 @@ public class manipulation_string {
         String name1 = "Sakshi";
         String name2 = "Anu";
 
-        if (name1.compareTo(name1 name2) ) {
+        if (name1.compareTo(name2) ==0) {
             System.out.println("Yes");
         } else {
             System.out.println("NO");
