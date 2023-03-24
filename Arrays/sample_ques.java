@@ -9,10 +9,12 @@ public class sample_ques {
         int col= sc.nextInt();
 
         int number[][]=new int[rows][col];
-
+        int x= sc.nextInt();
         for (int i=0; i<rows; i++){
             for (int j=0; j<col; j++){
-                number[i][j]=sc.nextInt();
+               if(number[i][j]==x){
+                System.out.println("x is fouond at "+ +" ");
+               }
             }
         }
     }
