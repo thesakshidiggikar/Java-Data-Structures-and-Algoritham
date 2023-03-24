@@ -13,7 +13,7 @@ public class sample_ques {
         for (int i=0; i<rows; i++){
             for (int j=0; j<col; j++){
                if(number[i][j]==x){
-                System.out.println("x is fouond at "+ +" ");
+                System.out.println("x is fouond at "+  " ");
                }
             }
         }
