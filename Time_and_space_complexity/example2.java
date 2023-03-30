@@ -26,6 +26,9 @@ public class example2 {
         for (int j=0; j<= b ; j++){
             System.out.println("&");
         }
+        for (int j=0; j<= b ; j++){
+            System.out.println("&");
+        }
         
     }
 }
