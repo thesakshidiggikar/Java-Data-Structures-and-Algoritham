@@ -14,15 +14,15 @@ public class declearing_string {
         //concatenation
         String name1= "anushka";
         String name2= "diggikar";
-        // String fullname= name1+name2;
-        // //System.out.println(fullname.length());
+        String fullname= name1+name2;
+        //System.out.println(fullname.length());
 
 
-        // //string indexing starts from 1 to n.
-        // //print all character using charAt
-        // // for (int i = 0; i <fullname.length();i++){
-        // //     System.out.println(fullname.charAt(i));
-        // // }
+        //string indexing starts from 1 to n.
+        //print all character using charAt
+        // for (int i = 0; i <fullname.length();i++){
+        //     System.out.println(fullname.charAt(i));
+        // }
 
         
 
