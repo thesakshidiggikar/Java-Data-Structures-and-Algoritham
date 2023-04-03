@@ -20,3 +20,4 @@ public class sample_ques {
     }
 }
 
+npx create-next-app -e with-tailwindcss my-project
