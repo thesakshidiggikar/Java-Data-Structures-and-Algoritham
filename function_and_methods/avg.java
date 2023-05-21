@@ -21,4 +21,4 @@ public class avg {
 
     Average(a, b, c);
     }
-}zz
+}
