@@ -13,7 +13,7 @@ public class add_2_no_retturn_sum {
         int a  = sc.nextInt();
         int b = sc.nextInt();
         
-
+ 
         int sum= Addition(a,b);
         System.out.println( sum);
     }
