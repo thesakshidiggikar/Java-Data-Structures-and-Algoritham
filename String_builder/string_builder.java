@@ -11,6 +11,7 @@ public static Strings {
         System.out.println(sb.charAt(0));
     }
 }
+
 import java.util.*;
 
 
@@ -23,6 +24,8 @@ public static Strings {
         System.out.println(sb.charAt(0));
     }
 }
+
+
 import java.util.*;
 
 
@@ -35,6 +38,8 @@ public static Strings {
         System.out.println(sb.charAt(0));
     }
 }
+
+
 import java.util.*;
 
 
