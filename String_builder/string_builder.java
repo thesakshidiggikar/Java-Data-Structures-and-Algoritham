@@ -47,3 +47,11 @@ public static Strings {
         System.out.println(sb.charAt(0));
     }
 }
+
+
+public static void main(String args[]){
+    StringBuilder st = new StringBuilder ("Sakshi");
+    System.out.main(st);
+
+    System.out.main(st.indexAt("r"));
+}
