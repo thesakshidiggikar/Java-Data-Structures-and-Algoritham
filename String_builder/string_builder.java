@@ -10,4 +10,4 @@ public static Strings {
         //char at index 0
         System.out.println(sb.charAt(0));
     }
-}z
+}
