@@ -120,7 +120,7 @@ public class sum_solving_using_scanner {
     }
 }
 import java.util.*;
-public class sum_solving_using_scanner {
+public class sum_solving_usi ng_scanner {
     public static void main(String args []){
         Scanner sc= new Scanner(System.in);
         int a = sc.nextInt(); 
