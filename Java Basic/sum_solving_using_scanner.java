@@ -9,4 +9,3 @@ public class sum_solving_using_scanner {
         System.out.println(sum);
     }
 }
-z
