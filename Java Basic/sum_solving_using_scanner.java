@@ -8,4 +8,4 @@ public class sum_solving_using_scanner {
         int sum = a + b;
         System.out.println(sum);
     }
-}zz
+}
