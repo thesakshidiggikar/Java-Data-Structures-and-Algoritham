@@ -77,4 +77,4 @@ public class solid_rectangle {
 //       *  *  *  *  *
 //       *  *  *  *  *
 //       *  *  *  *  *
-//       *  *  *  *  *package pattern;
+//       *  *  *  *  * package pattern;
