@@ -16,4 +16,4 @@ class Firstclass{ // "Big Entity"
         System.out.println("Hello World");
     }
 
-}SizedBox(width:
+}SizedBox(width:SizedBox(width: 8)
