@@ -1,4 +1,4 @@
-//for loop  :-  (Start ; step ; stop ) or ( initialisation ; conditiona ; updation)
+/for loop  :-  (Start ; step ; stop ) or ( initialisation ; conditiona ; updation)
 //while loop  :- 
 // do while loop
 
